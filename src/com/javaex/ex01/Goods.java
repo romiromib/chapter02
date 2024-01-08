@@ -5,7 +5,6 @@ public class Goods {
 	String name;
 	int price;
 	
-	
 	//생성자
 	//메소드-g/s
 	// -일반
