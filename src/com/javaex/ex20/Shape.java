@@ -2,6 +2,7 @@ package com.javaex.ex20;
 
 public abstract class Shape {//abstract를 클래스 앞에 추가해서 단독으로 메모리에 올릴 수 없도록 함. -->추상 클래스
 							 //메소드중에 abstract가 하나라도 존재하면 클래스에 abstract를 붙여줘야함(미완성이다라는 뜻)
+							
 //필드
 	private String fillColor;
 	private String lineClolor;
